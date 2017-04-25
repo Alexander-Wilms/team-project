@@ -1,0 +1,9 @@
+Anzahl;Identifikationsnummer;Bestellnummer;Eigene Bestellnummer;Bestellnummer Projekt-Eigentümer;EAN;Beschreibung;Farbe;Querschnitt;Gewicht;Länge
+1;8;210-112;;;4017332272292;"Stahltragschiene; 35 x 7,5 mm; 1 mm dick; 2 m lang; gelocht; entsprechend EN 60715; Lochbreite 25 mm; Lochabstand 36 mm";bläulich, verzinkt, chromatier;;63;200
+1;2;750-452;;;4045454484040;"2-Kanal-Analogeingang; 0 … 20 mA; Differenzeingang";lichtgrau;0,08 - 2,5 / 28;50,5;
+1;4;750-459;;;4045454471507;"4-Kanal-Analogeingang; DC 0 … 10 V; Single-Ended";lichtgrau;0,08 - 2,5 / 28;50,8;
+2;6;750-504;;;4045454582326;"4-Kanal-Digitalausgang; DC 24 V; 0,5 A";lichtgrau;;97;
+1;5;750-550;;;4045454393557;"2-Kanal-Analogausgang; DC 0 … 10 V";lichtgrau;0,08 - 2,5 / 28;47,9;
+1;7;750-600;;;4045454073985;Endmodul;lichtgrau;;32,3;
+2;3;750-601;;;4045454415297;"Potentialeinspeisung; DC 24 V";lichtgrau;0,08 - 2,5 / 28;93;
+1;1;750-8202;;;4050821739463;"Controller PFC200; 2 x ETHERNET, RS-232/-485";lichtgrau;;206;
